@@ -1,0 +1,36 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "贺之卫军的小游戏",
+  "author": "贺之卫军",
+  "updatedAt": "2026-11-09T20:15:16.9631919Z",
+  "games": [
+    {
+      "slug": "half-sugar-chapter1",
+      "title": "半糖心动 · 第一章 迟到的新人",
+      "url": "half-sugar-chapter1/index.html",
+      "cover": "covers/half-sugar-chapter1.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-08T09:20:00Z"
+    },
+    {
+      "slug": "ninefold-noodle",
+      "title": "九重云外小面馆",
+      "url": "ninefold-noodle/debug.html",
+      "cover": "covers/ninefold-noodle.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-08T00:00:00Z"
+    },
+    {
+      "slug": "smoke-check",
+      "title": "接入自检（工坊模板）",
+      "url": "smoke-check/index.html",
+      "cover": "covers/smoke-check.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-09T20:10:55Z"
+    }
+  ]
+}
